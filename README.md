@@ -9,7 +9,8 @@
 
 2. [Food Choices: College students' food and cooking preferences](https://www.kaggle.com/borapajo/food-choices)
    "This dataset includes information on food choices, nutrition, preferences, childhood favorites, and other information from college students. There are 126 responses from students. Data is raw and uncleaned."
-   
+
+Note: Please refer to source URL for Food.com original CSVs.
 
 -----------------------------------------
 ## Objective:
